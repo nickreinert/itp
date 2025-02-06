@@ -1,0 +1,6 @@
+# Haiku Documentation
+`documentation file
+
+:)
+
+`
