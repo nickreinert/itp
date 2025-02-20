@@ -1,4 +1,4 @@
-`
+
 ### JavaScriptReading
 
 ## Chapter 1:
@@ -12,4 +12,3 @@
 ## Chapter 3:
 - I didn't know about pretty much anything in this chapter, the most intereseting to me were scopes.
 - I knew somewhat about the concept of global and local, the super small amount of coding I did almost 5 years ago is slightly coming back haha...
-`
