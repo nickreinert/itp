@@ -1,4 +1,4 @@
-###Documentation
+### Documentation
 
 - First I looked up how to ask the user for input for the fahrenheit constant, I found out I should use the `prompt()` command. `const fahrenheit = prompt("Enter Temperature in Fahrenheit");`
 - Because the user input is a string, I used the type casting to convert the user input string into an integer I can use in the equation. `(parseInt(fahrenheit), typeof parseInt(fahrenheit));`
