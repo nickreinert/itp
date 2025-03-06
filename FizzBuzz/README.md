@@ -1,7 +1,8 @@
 ## Documentation file
 - First I looked through my google docs of notes to find helpful information we used in class, and I stumbled upon `for (let i = 1500; i <= 2700; i++) {  if (i % 7 === 0 && i % 5 === 0) { //% 5 === 0 means is divisible by 5
     console.log(i);}}`
-- I then changed these values to fit the requirements of this assignment, and added a couple other if statements `if (i % 3 === 0 && i % 5 === 0) {console.log("FizzBuzz")}`
+- I then changed these values to fit the requirements of this assignment, and added a couple other if statements `for (let i = 1; i <= 100; i++) {`
+  `if (i % 3 === 0 && i % 5 === 0) {console.log("FizzBuzz")}`
   `if (i % 3 === 0) {console.log("Fizz")}`
   `if (i % 5 === 0) {console.log("Buzz")}`
 - I wanted to address the rest of the outcomes, so I just put an else at the end for all of the normal numbers `else {console.log(i);}`
