@@ -14,7 +14,7 @@ Class Github, Chat GPT, YouTube
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Since We haven't learned about websites yet I'm not really sure, but I think it would be in HTML. I want to have sections for the different things I do: jazz, production, and sound design.
+Since We haven't learned about websites yet I'm not really sure, but I think it would be in HTML. I want to have sections for the different things I do: jazz, production, and sound design. I also definetely want a section that either has a link to TrakTrain which I use to sell beats, or embed TrakTrain into the website. I've seen other websites like this
 
 ## Will any work as part of this project overlap with any work you are doing outside of this class? For another class? Who is the professor in this class?
 
